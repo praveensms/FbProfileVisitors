@@ -1,0 +1,10 @@
+First open your fb page profile
+Right click on white space in the page
+Choose View Page Source
+Then it will open a new page
+Then you have to search for InitialChatFriends
+There you will find list of random numbers
+Copy the Random Number
+Then open a new tab
+Open this link www.facebook.com/yourCopiedRandomNumber
+Here you will find the user who visited your profile
